@@ -1,6 +1,6 @@
 # Дневник Лосяша — Writeup
 
-**Category:** Crypto   
+**Категория** Crypto   
 
 ## Описание
 
