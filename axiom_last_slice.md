@@ -1,4 +1,4 @@
-# Yet Another Notes — Writeup
+
 
 **Category:** Web  
 
